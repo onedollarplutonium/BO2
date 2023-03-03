@@ -2,7 +2,7 @@
 
 Scripts work for both ZM and MP (besides No Denizens)
 
-Place In C:\Users\ [Your Username] \AppData\Local\Plutonium\storage\t6\scripts(MP or ZM)
+Place In C:\Users\ [Your Username] \AppData\Local\Plutonium\storage\t6\scripts\ (MP or ZM)
 
 
 YOU MUST BE HOST FOR ANY OF THESE SCRIPTS TO WORK!!!! YOU CANNOT RUN SCRIPTS ON DEDICATED SERVERS!!!
