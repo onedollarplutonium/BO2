@@ -14,7 +14,7 @@ Showcase video:
 
 BO2TP V2: Play in third person with your friends. 
 
-Showcase video: 
+Showcase video: https://www.youtube.com/watch?v=7M6jgykQSrM
 
 
 No Fog: Removes fog and depth of field.
