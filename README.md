@@ -19,7 +19,7 @@ Showcase video: https://www.youtube.com/watch?v=7M6jgykQSrM
 
 No Fog: Removes fog and depth of field.
 
-Showcase Video:
+Showcase Video: https://www.youtube.com/watch?v=VMB6CSabq7k
 
 
 No Denizens: Removes the denizens from tranzit. Loads on all maps, only works on tranzit
