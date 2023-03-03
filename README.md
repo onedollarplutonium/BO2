@@ -1,6 +1,8 @@
 # Useful Bo2 GSC Scripts
 
-All of these scripts work for both ZM and MP 
+Scripts work for both ZM and MP (besides No Denizens)
+
+
 
 YOU MUST BE HOST FOR ANY OF THESE SCRIPTS TO WORK!!!! YOU CANNOT RUN SCRIPTS ON DEDICATED SERVERS!!!
 
