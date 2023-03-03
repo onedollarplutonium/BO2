@@ -9,7 +9,7 @@ YOU MUST BE HOST FOR ANY OF THESE SCRIPTS TO WORK!!!! YOU CANNOT RUN SCRIPTS ON 
 
 BO2DD V2: Fixes pop in and LOD issues caused by 120+ fov. Fixes nuketowns buses, buried dissapearing rock spots, most of the pop in on mob, pop in when in the fog on tranzit, ECT.
 
-Showcase video: 
+Showcase video: https://youtu.be/G5hnczid-qk
 
 
 BO2TP V2: Play in third person with your friends. 
